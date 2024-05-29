@@ -4,7 +4,7 @@ information primarily from http://dustkid.com/levels.php (gathers all visible le
 (gathers all user-related SS clears). It allows for easy rating of atlas maps by auto-opening (if desired) the 
 corresponding atlas page. <br>
 
-![Image](https://i.postimg.cc/c4LCmDy9/Screenshot-2024-05-28-at-7-57-15-PM.png)
+[![Screenshot-2024-05-28-at-7-57-15-PM.png](https://i.postimg.cc/c4LCmDy9/Screenshot-2024-05-28-at-7-57-15-PM.png)](https://postimg.cc/14byRrzw)
 
 ## Dependencies
 [PySimpleGui](https://pypi.org/project/PySimpleGUI/) - Used to create/display GUI<br>

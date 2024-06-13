@@ -1,4 +1,6 @@
 # Random Atlas Map (Dustforce)
+## NOTE: This is currently not working due to changes in dustkid.com/levels.php
+
 A "for-fun" project that aims to give you a random visible dustforce map based on your chosen criteria. It pulls 
 information primarily from http://dustkid.com/levels.php (gathers all visible levels) and http://dustkid.com/profilecustom/
 (gathers all user-related SS clears). It allows for easy rating of atlas maps by auto-opening (if desired) the 
